@@ -1,4 +1,4 @@
-![Hacking](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)
+![Hacking]([https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://giphy.com/gifs/3oEjI7gBSMd2jtZOI8))
 
 # Hi there, I'm Neicyy! 👋
 
