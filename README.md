@@ -27,7 +27,7 @@ I'm a **Red Hat** professional with a passion for open-source technologies, auto
 - Cloud-native security solutions
 
 ### 📫 Get in Touch:
-- LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/arif-rahman-huzaifa-953754258
+- 	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) <a href = https://www.linkedin.com/in/arif-rahman-huzaifa-953754258> Click Here </a>
 
 
 ---
