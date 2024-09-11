@@ -1,4 +1,6 @@
-# Hi there, I'm [Your Name]! 👋
+![Hacking](https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif)
+
+# Hi there, I'm Neicyy! 👋
 
 ### 🚀 About Me:
 I'm a **Red Hat** professional with a passion for open-source technologies, automation, and security. My expertise spans across system administration, DevOps, and cloud architecture. I'm always learning and looking to contribute to meaningful projects.
