@@ -8,7 +8,7 @@
 I'm a **Red Hat** professional with a passion for open-source technologies, automation, and security. My expertise spans across system administration, DevOps, and cloud architecture. I'm always learning and looking to contribute to meaningful projects.
 
 ### 🔧 Tech Stack:
-- **Operating Systems**: ![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=flat-square&logo=redhat&logoColor=white), CentOS, Fedora
+- **Operating Systems**: ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white), CentOS, Fedora
 - **Cloud**: AWS, OpenShift, Kubernetes
 - **Automation**: Ansible, Bash, Python
 - **Containers**: Docker, Podman
