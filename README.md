@@ -36,7 +36,10 @@ With specific expertise in web penetration testing and an interest in SOC, I am 
 - Cloud-native security solutions
 
 ### 📫 Get in Touch:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/johndoe/](https://www.linkedin.com/in/arif-rahman-huzaifa-953754258))
+<a href="https://www.linkedin.com/in/arif-rahman-huzaifa-953754258" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 
 
 
