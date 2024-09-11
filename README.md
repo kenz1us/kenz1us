@@ -1,9 +1,10 @@
-![Hacking](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JmNzNxbzllYXhqenM5dmlkNDZkd3hjNzBpeGVsZGF5OTlvd3Z4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI7gBSMd2jtZOI8/giphy.gif)
+
 
 
 # Hi there, I'm Neicyy! 👋
-d
+
 ### 🚀 About Me:
+![Hacking](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JmNzNxbzllYXhqenM5dmlkNDZkd3hjNzBpeGVsZGF5OTlvd3Z4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI7gBSMd2jtZOI8/giphy.gif)
 I'm a **Red Hat** professional with a passion for open-source technologies, automation, and security. My expertise spans across system administration, DevOps, and cloud architecture. I'm always learning and looking to contribute to meaningful projects.
 
 ### 🔧 Tech Stack:
