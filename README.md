@@ -12,7 +12,7 @@
 </div>
 
 ### 🚀 About Me:
-I am Arif Rahman Huzaifa, an Information Systems student focusing on developing expertise in cybersecurity, particularly in web penetration testing and security operations (SOC). With great passion, I seek to deepen my understanding of information systems security and contribute to maintaining data integrity and security.
+I am neicyy, an Information Systems student focusing on developing expertise in cybersecurity, particularly in web penetration testing and security operations (SOC). With great passion, I seek to deepen my understanding of information systems security and contribute to maintaining data integrity and security.
 
 I continue to develop my cybersecurity skills through relevant training and certifications, with the aim of becoming a competent and dedicated cybersecurity professional.
 
