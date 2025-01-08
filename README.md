@@ -43,7 +43,7 @@ With specific expertise in web penetration testing and an interest in SOC, I am 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-https://drive.google.com/file/d/1dm1YW-7B0Yy3F2kMYnaamtihZtUipJrS/view?usp=sharing
+
 
 
 
